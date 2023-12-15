@@ -40,3 +40,8 @@ src="https://img.shields.io/github/followers/diyorbekbaxromovv?logo=github&style
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/diyorbekbaxromovv/Python-Advanced" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=diyorbekbaxromovv&repo=Python-Advanced&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+
+![snake gif](https://github.com/diyorbekbaxromovv/diyorbekbaxromovv/blob/output/github-contribution-grid-snake.gif)
