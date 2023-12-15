@@ -44,4 +44,4 @@ src="https://img.shields.io/github/followers/diyorbekbaxromovv?logo=github&style
 
 
 
-![snake gif](https://github.com/diyorbekbaxromovv/diyorbekbaxromovv/blob/output/github-contribution-grid-snake.svg)
+
