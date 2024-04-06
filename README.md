@@ -10,7 +10,7 @@ Full-stack developer
 I'm in the early stage in this sphere. I've been learning Back-end Python programming language for 5 months.
 
 * 🌍  I'm based in Uzbekistan
-* ✉️  You can contact me at [https://t.me/diyorbek\_baxromovv](mailto:https://t.me/diyorbek_baxromovv)
+* ✉️  You can contact me at [https://t.me/baakhromovv](mailto:https://t.me/diyorbek_baxromovv)
 * 🧠  I'm learning Python Django framework, Bootstrap, Graphic Design
 
 <a href="https://www.github.com/diyorbekbaxromovv" target="_blank" rel="noreferrer"><img
